@@ -39,10 +39,15 @@ python admin_panel.py
 
 🌟 Core Functionalities
 Keylogger: Targets specific websites like Instagram and Facebook.
+
 Network Sniffing: Captures network packets and sends them to the admin panel.
+
 Webcam Capture: Takes real-time photos from the target’s webcam.
+
 Screenshot Capture: Captures the target’s desktop screenshots.
+
 Wi-Fi Password Extraction: Retrieves saved Wi-Fi credentials.
+
 Remote Shutdown: Shuts down the target machine remotely.
 
 
