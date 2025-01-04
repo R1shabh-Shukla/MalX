@@ -1,0 +1,6 @@
+requests
+opencv-python
+pywin32
+pynput
+Pillow
+scapy
