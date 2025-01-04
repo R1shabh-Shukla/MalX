@@ -25,30 +25,40 @@ To run the admin panel script on admin pc:
 python admin_panel.py
 
 📦 Dependencies
+
 1.Target Machine (Malware Script)
- requests
- opencv-python (cv2)
- pynput
- Pillow (ImageGrab)
- scapy
- win32gui
- winreg
+
+ 1.requests
+ 
+ 2.opencv-python (cv2)
+ 
+ 3.pynput
+ 
+ 4.Pillow (ImageGrab)
+ 
+ 5.scapy
+ 
+ 6.win32gui
+ 
+ 7.winreg
 
 2.Admin Panel Script
+
   bottle
 
 🌟 Core Functionalities
-Keylogger: Targets specific websites like Instagram and Facebook.
 
-Network Sniffing: Captures network packets and sends them to the admin panel.
+1.Keylogger: Targets specific websites like Instagram and Facebook.
 
-Webcam Capture: Takes real-time photos from the target’s webcam.
+2.Network Sniffing: Captures network packets and sends them to the admin panel.
 
-Screenshot Capture: Captures the target’s desktop screenshots.
+3.Webcam Capture: Takes real-time photos from the target’s webcam.
 
-Wi-Fi Password Extraction: Retrieves saved Wi-Fi credentials.
+4.Screenshot Capture: Captures the target’s desktop screenshots.
 
-Remote Shutdown: Shuts down the target machine remotely.
+5.Wi-Fi Password Extraction: Retrieves saved Wi-Fi credentials.
+
+6.Remote Shutdown: Shuts down the target machine remotely.
 
 
 ⚠️ Ethical Disclaimer
