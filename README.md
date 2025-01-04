@@ -11,7 +11,7 @@
 ## 🛠️ Installation and Setup
 
 1. **Clone this repository**:
-  git clone https://github.com/<your-username>/MalX.git
+  git clone https://github.com/R1shabh-Shukla/MalX.git
 
 2. Install dependencies on target machine:
 pip install -r requirements.txt  
@@ -20,7 +20,7 @@ Run the Scripts:
 
 To run the target machine script (malware) on target pc:
 
-python malwrae.py
+python malware.py
 
 To run the admin panel script on admin pc:
 
