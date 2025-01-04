@@ -19,32 +19,34 @@ pip install -r requirements.txt
 Run the Scripts:
 
 To run the target machine script (malware) on target pc:
+
 python malwrae.py
 
 To run the admin panel script on admin pc:
+
 python admin_panel.py
 
 📦 Dependencies
 
 1.Target Machine (Malware Script)
 
- 1.requests
+ ->requests
  
- 2.opencv-python (cv2)
+ ->opencv-python (cv2)
  
- 3.pynput
+ ->pynput
  
- 4.Pillow (ImageGrab)
+ ->Pillow (ImageGrab)
  
- 5.scapy
+ ->scapy
  
- 6.win32gui
+ ->win32gui
  
- 7.winreg
+ ->winreg
 
 2.Admin Panel Script
 
-  bottle
+  ->bottle
 
 🌟 Core Functionalities
 
