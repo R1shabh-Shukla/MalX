@@ -11,7 +11,7 @@
 ## 🛠️ Installation and Setup
 
 1. **Clone this repository**:
-  git clone https://github.com/<your-username>/MalwareX.git
+  git clone https://github.com/<your-username>/MalX.git
 
 2. Install dependencies on target machine:
 pip install -r requirements.txt  
